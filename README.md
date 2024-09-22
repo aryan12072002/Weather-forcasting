@@ -123,8 +123,5 @@ Contributions are welcome! To contribute:
 
 ### Contact
 
-For any inquiries, please reach out at your-email@example.com.
+For any inquiries, please reach out at your-tayadearyan98@gmail.com
 
----
-
-You can replace the necessary parts (like `path/to/screenshot.png` and your username) with actual values and customize the file further based on your project. Let me know if you need further details!
