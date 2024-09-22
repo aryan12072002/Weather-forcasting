@@ -8,9 +8,6 @@ A simple Django-based weather forecasting web application that fetches current w
 - Error handling for invalid city names or API issues.
 - Responsive and user-friendly interface with modern styling.
 
-## Screenshots
-![Weather App Screenshot](path/to/screenshot.png)
-
 ## Requirements
 
 Before you begin, ensure you have the following installed:
