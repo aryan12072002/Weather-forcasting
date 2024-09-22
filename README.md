@@ -123,5 +123,5 @@ Contributions are welcome! To contribute:
 
 ### Contact
 
-For any inquiries, please reach out at your-tayadearyan98@gmail.com
+For any inquiries, please reach out at tayadearyan98@gmail.com
 
